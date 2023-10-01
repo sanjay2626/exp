@@ -1,0 +1,1 @@
+<?php echo "https://" . $_SERVER['SERVER_NAME']; ?>

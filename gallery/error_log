@@ -1,0 +1,76 @@
+[19-Apr-2019 05:07:00 UTC] PHP Notice:  Undefined index: exp_dash_id in /home/experifun/public_html/experifun_dashboard/experifun_login/gallery/gallery.php on line 9
+[19-Apr-2019 05:07:00 UTC] PHP Notice:  Undefined index: permissions in /home/experifun/public_html/experifun_dashboard/experifun_login/gallery/gallery.php on line 9
+[19-Apr-2019 05:07:00 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/experifun/public_html/experifun_dashboard/experifun_login/gallery/gallery.php on line 9
+[19-Apr-2019 05:07:00 UTC] PHP Notice:  Undefined index: permissions in /home/experifun/public_html/experifun_dashboard/experifun_login/gallery/gallery.php on line 9
+[19-Apr-2019 05:07:00 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/experifun/public_html/experifun_dashboard/experifun_login/gallery/gallery.php on line 9
+[19-Apr-2019 05:07:00 UTC] PHP Notice:  Undefined index: permissions in /home/experifun/public_html/experifun_dashboard/experifun_login/gallery/gallery.php on line 9
+[19-Apr-2019 05:07:00 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/experifun/public_html/experifun_dashboard/experifun_login/gallery/gallery.php on line 9
+[19-Apr-2019 05:07:00 UTC] PHP Notice:  Undefined index: permissions in /home/experifun/public_html/experifun_dashboard/experifun_login/gallery/gallery.php on line 9
+[19-Apr-2019 05:07:00 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/experifun/public_html/experifun_dashboard/experifun_login/gallery/gallery.php on line 9
+[19-Apr-2019 05:07:00 UTC] PHP Notice:  Undefined index: permissions in /home/experifun/public_html/experifun_dashboard/experifun_login/head.php on line 66
+[19-Apr-2019 05:07:00 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/experifun/public_html/experifun_dashboard/experifun_login/head.php on line 66
+[19-Apr-2019 05:07:00 UTC] PHP Notice:  Undefined index: permissions in /home/experifun/public_html/experifun_dashboard/experifun_login/head.php on line 66
+[19-Apr-2019 05:07:00 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/experifun/public_html/experifun_dashboard/experifun_login/head.php on line 66
+[19-Apr-2019 05:07:00 UTC] PHP Notice:  Undefined index: permissions in /home/experifun/public_html/experifun_dashboard/experifun_login/head.php on line 66
+[19-Apr-2019 05:07:00 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/experifun/public_html/experifun_dashboard/experifun_login/head.php on line 66
+[19-Apr-2019 05:07:00 UTC] PHP Notice:  Undefined index: permissions in /home/experifun/public_html/experifun_dashboard/experifun_login/head.php on line 66
+[19-Apr-2019 05:07:00 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/experifun/public_html/experifun_dashboard/experifun_login/head.php on line 66
+[19-Apr-2019 05:07:00 UTC] PHP Notice:  Undefined index: permissions in /home/experifun/public_html/experifun_dashboard/experifun_login/head.php on line 66
+[19-Apr-2019 05:07:00 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/experifun/public_html/experifun_dashboard/experifun_login/head.php on line 66
+[19-Apr-2019 05:07:00 UTC] PHP Notice:  Undefined index: exp_dash_id in /home/experifun/public_html/experifun_dashboard/experifun_login/head.php on line 85
+[19-Apr-2019 05:07:00 UTC] PHP Notice:  Undefined index: permissions in /home/experifun/public_html/experifun_dashboard/experifun_login/head.php on line 89
+[19-Apr-2019 05:07:00 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/experifun/public_html/experifun_dashboard/experifun_login/head.php on line 89
+[19-Apr-2019 05:07:00 UTC] PHP Notice:  Undefined index: permissions in /home/experifun/public_html/experifun_dashboard/experifun_login/head.php on line 95
+[19-Apr-2019 05:07:00 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/experifun/public_html/experifun_dashboard/experifun_login/head.php on line 95
+[21-Jul-2019 06:34:27 UTC] PHP Notice:  Undefined index: exp_dash_id in /home/experifun/public_html/experifun_dashboard/experifun_login/gallery/gallery.php on line 9
+[21-Jul-2019 06:34:27 UTC] PHP Notice:  Undefined index: permissions in /home/experifun/public_html/experifun_dashboard/experifun_login/gallery/gallery.php on line 9
+[21-Jul-2019 06:34:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/experifun/public_html/experifun_dashboard/experifun_login/gallery/gallery.php on line 9
+[21-Jul-2019 06:34:27 UTC] PHP Notice:  Undefined index: permissions in /home/experifun/public_html/experifun_dashboard/experifun_login/gallery/gallery.php on line 9
+[21-Jul-2019 06:34:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/experifun/public_html/experifun_dashboard/experifun_login/gallery/gallery.php on line 9
+[21-Jul-2019 06:34:27 UTC] PHP Notice:  Undefined index: permissions in /home/experifun/public_html/experifun_dashboard/experifun_login/gallery/gallery.php on line 9
+[21-Jul-2019 06:34:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/experifun/public_html/experifun_dashboard/experifun_login/gallery/gallery.php on line 9
+[21-Jul-2019 06:34:27 UTC] PHP Notice:  Undefined index: permissions in /home/experifun/public_html/experifun_dashboard/experifun_login/gallery/gallery.php on line 9
+[21-Jul-2019 06:34:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/experifun/public_html/experifun_dashboard/experifun_login/gallery/gallery.php on line 9
+[21-Jul-2019 06:34:27 UTC] PHP Notice:  Undefined index: permissions in /home/experifun/public_html/experifun_dashboard/experifun_login/head.php on line 66
+[21-Jul-2019 06:34:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/experifun/public_html/experifun_dashboard/experifun_login/head.php on line 66
+[21-Jul-2019 06:34:27 UTC] PHP Notice:  Undefined index: permissions in /home/experifun/public_html/experifun_dashboard/experifun_login/head.php on line 66
+[21-Jul-2019 06:34:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/experifun/public_html/experifun_dashboard/experifun_login/head.php on line 66
+[21-Jul-2019 06:34:27 UTC] PHP Notice:  Undefined index: permissions in /home/experifun/public_html/experifun_dashboard/experifun_login/head.php on line 66
+[21-Jul-2019 06:34:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/experifun/public_html/experifun_dashboard/experifun_login/head.php on line 66
+[21-Jul-2019 06:34:27 UTC] PHP Notice:  Undefined index: permissions in /home/experifun/public_html/experifun_dashboard/experifun_login/head.php on line 66
+[21-Jul-2019 06:34:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/experifun/public_html/experifun_dashboard/experifun_login/head.php on line 66
+[21-Jul-2019 06:34:27 UTC] PHP Notice:  Undefined index: permissions in /home/experifun/public_html/experifun_dashboard/experifun_login/head.php on line 66
+[21-Jul-2019 06:34:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/experifun/public_html/experifun_dashboard/experifun_login/head.php on line 66
+[21-Jul-2019 06:34:27 UTC] PHP Notice:  Undefined index: exp_dash_id in /home/experifun/public_html/experifun_dashboard/experifun_login/head.php on line 85
+[21-Jul-2019 06:34:27 UTC] PHP Notice:  Undefined index: permissions in /home/experifun/public_html/experifun_dashboard/experifun_login/head.php on line 89
+[21-Jul-2019 06:34:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/experifun/public_html/experifun_dashboard/experifun_login/head.php on line 89
+[21-Jul-2019 06:34:27 UTC] PHP Notice:  Undefined index: permissions in /home/experifun/public_html/experifun_dashboard/experifun_login/head.php on line 95
+[21-Jul-2019 06:34:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/experifun/public_html/experifun_dashboard/experifun_login/head.php on line 95
+[29-Sep-2022 12:33:49 UTC] PHP Notice:  Undefined index: exp_dash_id in /home/experifun/public_html/experifun_dashboard/newdashboard/gallery/gallery.php on line 9
+[29-Sep-2022 12:33:49 UTC] PHP Notice:  Undefined index: permissions in /home/experifun/public_html/experifun_dashboard/newdashboard/gallery/gallery.php on line 9
+[29-Sep-2022 12:33:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/experifun/public_html/experifun_dashboard/newdashboard/gallery/gallery.php on line 9
+[29-Sep-2022 12:33:49 UTC] PHP Notice:  Undefined index: permissions in /home/experifun/public_html/experifun_dashboard/newdashboard/gallery/gallery.php on line 9
+[29-Sep-2022 12:33:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/experifun/public_html/experifun_dashboard/newdashboard/gallery/gallery.php on line 9
+[29-Sep-2022 12:33:49 UTC] PHP Notice:  Undefined index: permissions in /home/experifun/public_html/experifun_dashboard/newdashboard/gallery/gallery.php on line 9
+[29-Sep-2022 12:33:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/experifun/public_html/experifun_dashboard/newdashboard/gallery/gallery.php on line 9
+[29-Sep-2022 12:33:49 UTC] PHP Notice:  Undefined index: permissions in /home/experifun/public_html/experifun_dashboard/newdashboard/gallery/gallery.php on line 9
+[29-Sep-2022 12:33:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/experifun/public_html/experifun_dashboard/newdashboard/gallery/gallery.php on line 9
+[29-Sep-2022 12:33:49 UTC] PHP Notice:  Undefined index: projectid in /home/experifun/public_html/experifun_dashboard/newdashboard/head.php on line 58
+[29-Sep-2022 12:33:49 UTC] PHP Notice:  Undefined index: projectid in /home/experifun/public_html/experifun_dashboard/newdashboard/head.php on line 64
+[29-Sep-2022 12:33:49 UTC] PHP Notice:  Undefined index: permissions in /home/experifun/public_html/experifun_dashboard/newdashboard/head.php on line 66
+[29-Sep-2022 12:33:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/experifun/public_html/experifun_dashboard/newdashboard/head.php on line 66
+[29-Sep-2022 12:33:49 UTC] PHP Notice:  Undefined index: permissions in /home/experifun/public_html/experifun_dashboard/newdashboard/head.php on line 66
+[29-Sep-2022 12:33:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/experifun/public_html/experifun_dashboard/newdashboard/head.php on line 66
+[29-Sep-2022 12:33:49 UTC] PHP Notice:  Undefined index: permissions in /home/experifun/public_html/experifun_dashboard/newdashboard/head.php on line 66
+[29-Sep-2022 12:33:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/experifun/public_html/experifun_dashboard/newdashboard/head.php on line 66
+[29-Sep-2022 12:33:49 UTC] PHP Notice:  Undefined index: permissions in /home/experifun/public_html/experifun_dashboard/newdashboard/head.php on line 66
+[29-Sep-2022 12:33:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/experifun/public_html/experifun_dashboard/newdashboard/head.php on line 66
+[29-Sep-2022 12:33:49 UTC] PHP Notice:  Undefined index: permissions in /home/experifun/public_html/experifun_dashboard/newdashboard/head.php on line 66
+[29-Sep-2022 12:33:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/experifun/public_html/experifun_dashboard/newdashboard/head.php on line 66
+[29-Sep-2022 12:33:49 UTC] PHP Notice:  Undefined index: permissions in /home/experifun/public_html/experifun_dashboard/newdashboard/head.php on line 66
+[29-Sep-2022 12:33:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/experifun/public_html/experifun_dashboard/newdashboard/head.php on line 66
+[29-Sep-2022 12:33:49 UTC] PHP Notice:  Undefined index: exp_dash_id in /home/experifun/public_html/experifun_dashboard/newdashboard/head.php on line 86
+[29-Sep-2022 12:33:49 UTC] PHP Notice:  Undefined index: permissions in /home/experifun/public_html/experifun_dashboard/newdashboard/head.php on line 90
+[29-Sep-2022 12:33:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/experifun/public_html/experifun_dashboard/newdashboard/head.php on line 90
+[29-Sep-2022 12:33:49 UTC] PHP Notice:  Undefined index: permissions in /home/experifun/public_html/experifun_dashboard/newdashboard/head.php on line 96
+[29-Sep-2022 12:33:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/experifun/public_html/experifun_dashboard/newdashboard/head.php on line 96

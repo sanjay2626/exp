@@ -1,0 +1,64 @@
+h4.c,.incremental{
+  text-align: center;
+  font-weight: lighter;
+}
+.top{
+  background: #311b92;
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px
+}
+.circle{
+    width:50px !important;
+    height:50px !important;
+    color:white;
+    border-radius:50%;
+    cursor:pointer;
+    margin-bottom: 10px
+}
+.center_flex{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    flex-wrap:wrap;
+    flex-direction:row;
+}
+.basis{
+    flex-basis:100%
+}
+.section{
+  padding:15vh 30px;
+}
+.section-half{
+  padding:10vh 30px;
+}
+canvas.full{
+  padding:20px;
+  box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  background-color: white
+}
+#add{
+    background-color:#0074D9;
+}
+#view{
+    background-color:#85144B;
+}
+#plans{
+    background-color:#64DD17;
+}
+#view_plans{
+    background-color: black;
+}
+#teacher_perf{
+    background-color: #00695c;
+}
+h2.head{
+  text-align: center;
+  margin-bottom:10vh
+}
+h2{
+  font-weight: lighter;
+}
+td,th{
+  text-align: center
+}
