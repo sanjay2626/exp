@@ -219,7 +219,7 @@ $basepath ="http://localhost/exp";
 
       <li class="nav-item">
 
-       <a style="color:red !important" class="nav-link" href= "<?php echo $basepath ?>/logout.php"  >Log Out  </a> 
+       <a style="color:red !important" class="nav-link" href= "<?php echo $basepath; ?>/logout.php"  >Log Out  </a> 
 
       </li>
 

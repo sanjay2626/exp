@@ -1,0 +1,179 @@
+
+
+
+
+tbody {
+
+display:block;
+
+height:50px;
+
+overflow:auto;
+
+}
+
+
+
+.fontcolor{
+
+  color: white;
+
+}
+
+
+
+.scrollit {
+
+overflow:scroll;
+
+height:100px;
+
+}    
+
+
+
+th#city {
+
+  font-weight: 600;
+
+  width: 142px !important
+
+}
+
+
+
+th#school {
+
+font-weight: 600;
+
+width: 306px;
+
+}
+
+
+
+.table thead th {
+
+vertical-align: middle !important;
+
+border-bottom: 1px solid #0C0101 !important;
+
+}
+
+
+
+.table-bordered td, .table-bordered th {
+
+border: 1px solid #01060c;
+
+}
+
+th {
+
+padding: 1px 12px !important;
+
+}
+
+.padd{
+
+  padding:2px 10px !important
+
+}
+
+
+
+.wpimg {
+
+width: 23px;
+
+height: 23px;
+
+margin-left: 12px;
+
+}
+
+.top{
+
+
+
+  background: #311b92;
+
+  color: white;
+
+  padding-top: 10px;
+
+  padding-bottom: 10px
+
+}
+
+h4.c,.incremental{
+
+  text-align: center;
+
+  font-weight: lighter;
+
+}
+
+.section{
+
+  padding:15vh 30px;
+
+}
+
+.section-half{
+
+  padding:10vh 30px;
+
+}
+
+canvas.full{
+
+  padding:20px;
+
+  box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2)
+
+}
+
+h2.head{
+
+  text-align: center;
+
+  margin-bottom:10vh
+
+}
+
+h2,h3{
+
+  font-weight: lighter;
+
+}
+
+select{
+
+    margin-bottom:10px;
+
+}
+
+
+
+.navbar-dark .navbar-nav .nav-link {
+
+color: rgb(12 40 145 / 50%);
+
+ }
+
+ .nav-link:focus, .nav-link:hover {
+
+text-decoration: initial;
+
+color: black !important;
+
+}
+
+th p {
+
+margin-bottom: 0px;
+
+}
+
+

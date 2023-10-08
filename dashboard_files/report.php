@@ -1,5 +1,5 @@
 <?php 
-
+$chart=" ";
     if(isset($_GET['pid']) && $_GET['pid'] !== ""){
 
         $projects = $_GET['pid'];
@@ -109,10 +109,15 @@ $more = 'Click here For More details...';
     group by project_id,program,module_id,school_id";
 
     $chart_query_res = mysqli_query($con,$chart_query_all);
-
+    $chart=[];
+    $chart['project']=[];
+    $chart['program']=[];
+    $chart['module']=[];
+    $chart['school']=[];
+  echo $projects;
     while($row = mysqli_fetch_assoc($chart_query_res)){
 
-//print_r($row);
+  print_r($row);
 
       if(isset($chart['project'][$row['project']])){
 
@@ -187,7 +192,8 @@ $more = 'Click here For More details...';
     where project_id in ({$projects}) group by grade,school";
 
     $chart_grade_query_res = mysqli_query($con,$chart_grade_query) or die(mysqli_error($con));
-
+    $chart_grade=[];
+    $chart_grade['total']=[];
     while($grade_row = mysqli_fetch_assoc($chart_grade_query_res)){
 
 
@@ -320,92 +326,10 @@ var chart_array = 'null';
 
     </script>
 
-    <style>
-
-      .top{
-
-
-
-        background: #311b92;
-
-        color: white;
-
-        padding-top: 10px;
-
-        padding-bottom: 10px
-
-      }
-
-      h4.c,.incremental{
-
-        text-align: center;
-
-        font-weight: lighter;
-
-      }
-
-      .section{
-
-        padding:15vh 30px;
-
-      }
-
-      .section-half{
-
-        padding:10vh 30px;
-
-      }
-
-      canvas.full{
-
-        padding:20px;
-
-        box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2)
-
-      }
-
-      h2.head{
-
-        text-align: center;
-
-        margin-bottom:10vh
-
-      }
-
-      h2,h3{
-
-        font-weight: lighter;
-
-      }
-
-      select{
-
-          margin-bottom:10px;
-
-      }
-
-
-
-      .navbar-dark .navbar-nav .nav-link {
-
-    color: rgb(12 40 145 / 50%);
-
-       }
-
-       .nav-link:focus, .nav-link:hover {
-
-    text-decoration: initial;
-
-    color: black !important;
-
-}
-
-    </style>
-
-
+  
 
   <!--   <script type="text/javascript" src="https://canvasjs.com/assets/script/canvasjs.min.js"></script> -->
-
+  <link rel="stylesheet" type="text/css" href="./table.css">
 <div  class=" top container-fluid" style="background: #C00000 !important;">
 
       <div style="padding:10px" class="row justify-content-center">
@@ -612,7 +536,7 @@ var chart_array = 'null';
 
     <?php if(!empty($chart == null)){ ?> <h3 style="text-align: center;">No Data Found</h3> <?php  } ?> 
 
-     <!--
+     <!--  -->
 
     <?php if(count($chart['project']) > 1){ ?>
 
